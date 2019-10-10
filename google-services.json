@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072616074199",
+    "firebase_url": "https://urbc-app.firebaseio.com",
+    "project_id": "urbc-app",
+    "storage_bucket": "urbc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072616074199:android:fd8b8a1e496d21270df992",
+        "android_client_info": {
+          "package_name": "com.example.urbcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072616074199-emmi88tk5aa0a27s5tvi5ps6k5lshtlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbcapp",
+            "certificate_hash": "26cfe7e43afe5a3a34cc2470b7811205745af5f9"
+          }
+        },
+        {
+          "client_id": "1072616074199-r6th3ccajn0hrgpvmchovlcvd3m7sidf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARjCTSgyEkSHwYJq5RgC8NC0AEYy_oyXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072616074199-r6th3ccajn0hrgpvmchovlcvd3m7sidf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
